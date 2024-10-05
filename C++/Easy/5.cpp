@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {
-    const int a = 10;
-    b = 11;
+    int a = 10;
+    int b = 11;
     a = 100;
     b = 110;
 }
