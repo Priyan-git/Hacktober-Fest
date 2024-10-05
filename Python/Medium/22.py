@@ -1,8 +1,8 @@
 a=3
 b=4
-print(a+b+c)
+print(a+b)
 
 x = 5
-y = z  
+y = x
 
 print(x + y)
