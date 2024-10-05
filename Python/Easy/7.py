@@ -1,19 +1,19 @@
-None = "some_value"
-if None == "some_value":
+none = "some_value"
+if none == "some_value":
     print("This shouldn't work, None is a keyword!")
-True = 1
-if True: 
+true = 1
+if true: 
     print("This will cause an error because 'True' is a reserved keyword.")
 
-def for(x):
+def For(x):
     return x * 2
 
-result = for(5)
+result = For(5)
 print(result)  
 
-if return > 5:
+if result > 5:
     print("You can't use 'return' as a variable name!")
 
-class = "AdvancedPython"
+Class = "AdvancedPython"
 print("This won't work because 'class' is a reserved keyword in Python.")
 
