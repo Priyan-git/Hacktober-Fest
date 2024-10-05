@@ -1,4 +1,4 @@
-try
+try:
     result = 10 / 0
-except (ZeroDivisionError)
+except (ZeroDivisionError):
     print("Error occurred")
